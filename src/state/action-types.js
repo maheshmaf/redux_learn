@@ -1,0 +1,4 @@
+export default {
+  SEARCH_CHANGE: "SEARCH_CHANGE",
+  SEARCH_SUBMIT: "SEARCH_SUBMIT"
+};
